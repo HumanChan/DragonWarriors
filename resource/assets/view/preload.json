@@ -1,0 +1,7 @@
+{"file":"preload.png","frames":{
+"btn_main1":{"x":0,"y":61,"w":92,"h":47,"offX":0,"offY":0,"sourceW":92,"sourceH":47},
+"btn_text_queding":{"x":142,"y":79,"w":46,"h":23,"offX":0,"offY":0,"sourceW":46,"sourceH":23},
+"btn_text_quxiao":{"x":94,"y":61,"w":46,"h":23,"offX":0,"offY":0,"sourceW":46,"sourceH":23},
+"loading_load":{"x":168,"y":55,"w":75,"h":22,"offX":1,"offY":0,"sourceW":76,"sourceH":22},
+"loading_load_bg":{"x":0,"y":0,"w":166,"h":59,"offX":0,"offY":0,"sourceW":166,"sourceH":59},
+"loadingCircle":{"x":168,"y":0,"w":53,"h":53,"offX":0,"offY":0,"sourceW":53,"sourceH":53}}}
